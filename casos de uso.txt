@@ -1,0 +1,13 @@
+caso de uso SEMAFORO CONTROLADOR DE TRAFICO
+
+ACTORES:  PEATON
+
+PORPOSITO: El semaforo sera capaz de controlar el trafico
+
+PRE CONDICIONES: QUE EL SEMAFO ESTE ENCENDIDO Y FUNCIONANDO
+
+POST CONDICION: cuando este en rojo emita un sonido
+
+ESCENARIO DE EXITO: que el semaforo cambie de color, duracion de color rojo= 7seg, amarillo= 3 segundos, verde= 5 segundos
+
+EXTENCION: cuando el semaforo este en rojo se emita un sonido
